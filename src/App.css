@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url(./Fonts/Roboto-Regular.ttf);
+}
+
+.App {
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Roboto-Regular';
+}
+
+body * {
+  box-sizing: border-box
+}

@@ -1,0 +1,24 @@
+.task-list-select-task {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
+.task-list-select {
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    padding: 7px 8px 7px 4px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+    text-align: start;
+    margin-left: 0;
+    width: 100%;
+}
+
+.task-list-select:hover {
+    cursor: pointer;
+}
